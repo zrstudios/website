@@ -142,7 +142,7 @@ p{
 
 /* When moving the mouse over the close button */
 .closebtn:hover {
-  color: black;
+  color: white;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -178,7 +178,7 @@ p{
 }
 
 .title {
-  color: grey;
+  color: white;
 }
 
 .button {
